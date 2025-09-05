@@ -13,7 +13,7 @@ Software Engineer • Backend Developer • ERP Systems • AI Automations
 ---
 
 ## 👨‍💻 About Me
-Driven and results-oriented **Software Engineer** with 2 years of experience in **application and web development**.  
+Driven and results-oriented **Software Engineer** with 3 years of experience in **application and web development**.  
 I’m passionate about building **robust ERP systems**, **AI-driven automation**, and scalable web apps.  
 
 - 🔭 Currently working at **Veela Beauty** as a Software Engineer.  
