@@ -6,7 +6,7 @@ Software Engineer • Backend Developer • ERP Systems • AI Automations
 
 <p align="center">
 <a href="mailto:marcomaherwilliiam@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/marco-maher/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/marco-maher/">LinkedIn</a> •
 <a href="https://www.maverikode.com">MaveriKode</a>
 </p>
 
